@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CookEase</string>
+    <string name="cookease">CookEase</string>
+    <string name="intro">Clean eating with a focus on high quality, tasty recipes</string>
+    <string name="button_text">Start Cooking</string>
+    <string name="find_text">Find best recipes for cooking</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_text">Settings</string>
+    <string name="blueberry_pancakes">Blueberry Pancakes</string>
+    <string name="category_image">category image</string>
+    <string name="meals">Meals</string>
+    <string name="categories">Categories :</string>
+    <string name="rec_image">Recipe Image</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="recipe">Recipe</string>
+    <string name="recipe_meal_image">Recipe Meal Image</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="ingredient_name">Ingredient Name</string>
+    <string name="instructions">Instructions :</string>
+    <string name="prev_screen">go back to prev screen</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_text">Sign In with Google</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="email">Email</string>
+    <string name="client_id">571769242722-2kis411nghkmhg7rn60h2lcqe1ba92vn.apps.googleusercontent.com</string>
+    <string name="password">Password</string>
+    <string name="or">Or</string>
+    <string name="sign_out_button">Sign Out</string>
+    <string name="logout_button">logout button</string>
+    <string name="search_button">search button</string>
+    <string name="welcome_to_cookease">Welcome to CookEase!</string>
+    <string name="top_image">Top image</string>
+</resources>
